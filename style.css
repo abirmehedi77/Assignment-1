@@ -4,3 +4,6 @@ body{
 .spanclr{
     color: orange;
 }
+section{
+    display: flex;
+}
