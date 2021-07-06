@@ -71,3 +71,50 @@ border-radius: 20px;
     margin-right: 2%;
     box-shadow: 5px 10px 20px gray;
 }
+#subs h1{
+
+    display: inline;
+    padding: 20px 150px;
+    
+}
+.subs{
+    box-shadow: 5px 10px 20px gray;
+    margin-top: 10%;
+    padding-top: 3%;
+    border-radius: 20px;
+    padding-bottom: none;
+    
+}
+#icon1 a{
+    background-image: none;
+    
+}
+#icon2 a{
+    background-image: none;
+    
+}
+#icon3 a{
+    background-image: none;
+    
+}
+#icon1 img{
+    height: 100px;
+    width: 200px;
+    margin-left: 30%;
+    
+}
+#icon2 img{
+    height: 100px;
+    width: 200px;
+    margin-left: 100%;
+    
+}
+#icon3 img{
+    height: 100px;
+    width: 200px;
+    margin-left: 170%;
+    
+}
+.icon{
+    display: flex;
+}
