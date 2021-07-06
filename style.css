@@ -1,5 +1,7 @@
+
 body{
     font-family: 'Rubik', sans-serif;
+   
 }
 .spanclr{
     color: orange;
@@ -126,7 +128,10 @@ border-radius: 20px;
 .bottom{
     text-align: center;
     background: gray;
-    padding: 5%;
-    margin-top: 5%;
+    padding-bottom: 5%;
+    padding-top: 1%;
 
+}
+#bottom{
+    font-size: 40px;
 }
